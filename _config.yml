@@ -2,5 +2,11 @@ title: Emory data science Club
 
 description: a website representing emory university of atlanta's undergraduate students club members specialize in mathematics, computer science, statistics
 
+social:
+    links:
+        - https://www.facebook.com/emory.datascience/
+        - https://twitter.com/QuanTMEmory
+    
+
 plugins:
     - jekyll-seo-tag
